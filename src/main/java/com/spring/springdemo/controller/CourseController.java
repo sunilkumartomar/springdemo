@@ -17,7 +17,7 @@ public class CourseController {
 
     @GetMapping
     public String home() {
-           //sunil git 
+           //sunil git push
         return "Welcome to rest Application";
     }
 
